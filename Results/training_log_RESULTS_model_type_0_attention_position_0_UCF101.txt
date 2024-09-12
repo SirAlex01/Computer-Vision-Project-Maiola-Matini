@@ -1,0 +1,8 @@
+Epoch: 1, Elapsed Time: 3836.718756914139 seconds, Train Loss: 0.19967541214442958, Validation Loss: 0.19638906564103084
+Epoch: 2, Elapsed Time: 3798.166692018509 seconds, Train Loss: 0.1691732477088263, Validation Loss: 0.16602715149605543
+Epoch: 3, Elapsed Time: 3755.431215286255 seconds, Train Loss: 0.16142372352637438, Validation Loss: 0.15876431178427144
+Epoch: 4, Elapsed Time: 3795.6865072250366 seconds, Train Loss: 0.1594027748346083, Validation Loss: 0.1567437058419324
+Epoch: 5, Elapsed Time: 3779.2865726947784 seconds, Train Loss: 0.15291633156577314, Validation Loss: 0.15050361404676785
+Epoch: 6, Elapsed Time: 3874.6265337467194 seconds, Train Loss: 0.14948059815415152, Validation Loss: 0.14746843959424602
+Epoch: 7, Elapsed Time: 3754.469943523407 seconds, Train Loss: 0.14896964682102115, Validation Loss: 0.14716786554690156
+Epoch: 8, Elapsed Time: 3735.2712438106537 seconds, Train Loss: 0.14615735952501976, Validation Loss: 0.14446926313672173
