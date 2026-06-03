@@ -1,6 +1,6 @@
 # Video Frame Prediction via Attention-Based Spatio-Temporal Learning
 
-**Authors:** Alessio Maiola, Alessandro Matini  
+**Authors:** Alessio Maiola, Gabriele Matini  
 **Course:** Computer Vision — Sapienza University of Rome
 
 ---
